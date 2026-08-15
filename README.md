@@ -102,7 +102,7 @@ cd wellness-ai-planner
 ### 2. Install dependencies
 
 ```bash
-pip install -r reqiurements.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Run the application
@@ -123,7 +123,7 @@ The application will open in your browser.
 wellness-ai-planner/
 │
 ├── app.py                  # Main Streamlit application
-├── reqiurements.txt        # Python dependencies
+├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
 
